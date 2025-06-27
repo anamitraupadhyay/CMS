@@ -2,9 +2,14 @@
 This project is still in early development phase. It's about handling a wordpress cms backend and database.
 This project is been made with laravel and wordpress.
 Example wordpress frontend:
-[wpcms.pdf](https://github.com/user-attachments/files/20944582/wpcms.pdf)
+
+![wpcms](https://github.com/user-attachments/assets/bdad49fa-bbdb-4e52-9835-6e07112adbf8)
+
 And its init phase posts and user registration(unpolished):
 users:
-[wp-users.pdf](https://github.com/user-attachments/files/20944598/wp-users.pdf)
+
+![wp-users](https://github.com/user-attachments/assets/f87e01a0-40cd-4333-81b9-f7d999ae7a9f)
+
 posts:
-[WordPressPosts.pdf](https://github.com/user-attachments/files/20944604/WordPressPosts.pdf)
+
+![WordPressPosts](https://github.com/user-attachments/assets/049b748a-7542-4485-a534-4024365b0d0a)
